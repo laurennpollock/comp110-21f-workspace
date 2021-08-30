@@ -2,6 +2,8 @@
 __author__ = "730392344"
 left_hand_side: str = input("Left-hand side: ")
 right_hand_side: str = input("Right-hand side: ")
+int(str(left_hand_side))
+int(str(left_hand_side))
 less_than = bool(left_hand_side < right_hand_side)
 at_least = bool(left_hand_side >= right_hand_side) 
 equal_to = bool(left_hand_side == right_hand_side) 

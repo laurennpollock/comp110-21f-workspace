@@ -2,7 +2,8 @@
 __author__ = "730392344" 
 left_hand_side: str = input("Left-hand side: ")
 right_hand_side: str = input("Right-hand side: ")
-
+int(str(left_hand_side))
+int(str(left_hand_side))
 exponentiation = int(left_hand_side) ** int(right_hand_side)
 division = int(left_hand_side) / int(right_hand_side)
 integer_division = int(left_hand_side) // int(right_hand_side)
